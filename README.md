@@ -70,6 +70,6 @@ Records: 8802
   - Rating Analysis
   - Year-wise Trend Analysis
   - Interactive Filters
-![NETFLIX DASHBOARD]()
+![NETFLIX DASHBOARD](NETFLIX_DATA_PROJECT_USING_SQL 2.pbix)
 
 
