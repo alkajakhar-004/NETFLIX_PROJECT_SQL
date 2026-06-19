@@ -1,1 +1,2 @@
-# NETFLIX_PROJECT_SQL
+# NETFLIX DATA ANALYSIS USING pgAdmin4
+![netflix dashboard]()
