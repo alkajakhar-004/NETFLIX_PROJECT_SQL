@@ -1,2 +1,2 @@
 # NETFLIX DATA ANALYSIS USING pgAdmin4
-![netflix dashboard]()
+![Netflix Logo ](Netflix-Official-Logo.png)
