@@ -4,6 +4,7 @@
 
 # REPOSITORY STRUCTURE
 📁 Netflix_SQL_PowerBI_Project
+
  ┣ 📄 netflix_titles.csv
  ┣ 📄 Netflix_SQL_Queries.sql
  ┣ 📄 Netflix_Dashboard.pbix
