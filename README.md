@@ -70,6 +70,11 @@ Records: 8802
   - Rating Analysis
   - Year-wise Trend Analysis
   - Interactive Filters
-![NETFLIX DASHBOARD](NETFLIX_DATA_PROJECT_USING_SQL 2.pbix)
+    <img width="1487" height="827" alt="Screenshot 2026-06-19 220519" src="https://github.com/user-attachments/assets/64776482-565e-4944-9916-942a98083a6d" />
+    
+<img width="1336" height="743" alt="Screenshot 2026-06-19 220601" src="https://github.com/user-attachments/assets/58e91a35-b5ea-4a56-b041-aaa75ccd00d1" />
+
+<img width="1487" height="826" alt="Screenshot 2026-06-19 220447" src="https://github.com/user-attachments/assets/2ec78223-37c0-41ec-8e76-ee7202e4f965" />
+
 
 
