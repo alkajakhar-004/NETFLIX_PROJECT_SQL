@@ -1,5 +1,7 @@
 # NETFLIX DATA ANALYSIS USING pgAdmin4
 ![Netflix Logo ](Netflix-Official-Logo.png)
+
+
 # REPOSITORY STRUCTURE
 📁 Netflix_SQL_PowerBI_Project
  ┣ 📄 netflix_titles.csv
@@ -63,18 +65,36 @@ Records: 8802
 9. Identify the Longest Movie.
    -InuYasha the Movie 2: The Castle Beyond the Looking Glass
 
+
+
+
+ <img width ="1487" height="827" alt="Screenshot 2026-06-19 220519" src="https://github.com/user-attachments/assets/64776482-565e-4944-9916-942a98083a6d" />
+
+
+
+
+
+ <img width="1487" height="826" alt="Screenshot 2026-06-19 220447" src="https://github.com/user-attachments/assets/2ec78223-37c0-41ec-8e76-ee7202e4f965" />
+
+
+
    # DASHBOARD PREVIEW
    - KPI Cards
    - Genre Analysis
    - Country Analysis
   - Rating Analysis
   - Year-wise Trend Analysis
-  - Interactive Filters
-    <img width="1487" height="827" alt="Screenshot 2026-06-19 220519" src="https://github.com/user-attachments/assets/64776482-565e-4944-9916-942a98083a6d" />
+ - Interactive Filters
+   
+    
     
 <img width="1336" height="743" alt="Screenshot 2026-06-19 220601" src="https://github.com/user-attachments/assets/58e91a35-b5ea-4a56-b041-aaa75ccd00d1" />
 
-<img width="1487" height="826" alt="Screenshot 2026-06-19 220447" src="https://github.com/user-attachments/assets/2ec78223-37c0-41ec-8e76-ee7202e4f965" />
+# CONCLUSION
 
+This project analyzed Netflix Movies and TV Shows data using SQL and Power BI. The analysis revealed that Movies dominate the platform, the United States contributes the highest amount of content, and Drama is one of the most popular genres. The dashboard provides an interactive view of content distribution, ratings, genres, countries, and growth trends, helping users better understand Netflix's content library.
+
+## AUTHOR
+ALKA JAKHAR
 
 
